@@ -19,6 +19,6 @@
   },
   "main": "index.js",
   "dependencies": {
-    "fbgraph": "1.1.0"
+    "fbgraph": "git://github.com/fanfairSystemsInc/fbgraph.git"
   }
 }
